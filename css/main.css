@@ -64,7 +64,7 @@ section {
 
 .form-control {
     display: block;
-    padding: 6px 12px 6px 12px;
+    padding: 6px 12px;
     border: solid;
     border-width: 1px;
     border-color: #a0a0a0;
