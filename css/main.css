@@ -63,13 +63,11 @@ section {
 }
 
 .form-control {
-    display: block;
+    display: block; 
     padding: 6px 12px;
-    border: solid;
-    border-width: 1px;
-    border-color: #a0a0a0;
-    color: #8598a2;
     line-height: 1.4;
+    color: #8598a2; 
+    border: 1px solid #a0a0a0;
 }
 
 .text-light {
