@@ -382,14 +382,9 @@ footer a:hover {
     margin-bottom: 15px;
 }
 
-.newsletter input {
-    border: 1px solid #364147;
-    width: 200px;
-    margin-bottom: 10px;
-}
-
+.newsletter input { border: 1px solid #364147; width: 200px; margin-bottom: 10px; }
 .newsletter button {
-    width: 150ox;
+    width: 150px;
     min-width: auto;
     text-transform: uppercase;
     letter-spacing: 1px;
